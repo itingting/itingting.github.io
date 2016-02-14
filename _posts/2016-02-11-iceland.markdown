@@ -1,0 +1,21 @@
+---
+title:  "冰岛旅行"
+subtitle: "第一天 (雷克雅維克)"
+author: "脸猫"
+avatar: "img/authors/wferr.png"
+image: "img/iceland/1/cover.jpg"
+date:   2016-02-11 12:12:12
+---
+
+## 第一天旅行
+
+到冰岛了，背着背包在雪地里赶路，久违了的感觉。
+
+### 雷克雅維克
+
+
+<img src="img/iceland/1/cover.jpg" width="700">
+
+摆一个漂漂滴造型
+
+<img src="img/iceland/1/1.jpg" width="700">

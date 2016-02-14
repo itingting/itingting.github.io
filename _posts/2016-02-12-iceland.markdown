@@ -1,0 +1,20 @@
+---
+title:  "冰岛旅行"
+subtitle: "第二天 (蓝潟湖)"
+author: "脸猫"
+avatar: "img/authors/wferr.png"
+image: "img/iceland/2/cover.jpg"
+date:   2016-02-12 12:12:12
+---
+
+## 第二天旅行
+
+Blue lagoon
+
+### 蓝潟湖
+
+<img src="img/iceland/2/cover.jpg" width="700">
+
+我还有一些小羞涩
+
+<img src="img/iceland/2/1.jpg" width="700">
